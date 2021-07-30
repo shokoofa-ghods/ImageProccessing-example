@@ -1,5 +1,5 @@
 # ImageProccessing-example
-A Python program implementing image proccessing features
+### A Python program implementing image filtering features
 
 The program implements some common methods to apply image enhancement feature including rescaling, contrast, denoising and threshold on images in the original folder using image proccessing libraries such as :
 - Scikit-image

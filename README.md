@@ -10,7 +10,7 @@ you can replace the content of the origin folder with your own pictures.
 <br/>
 
 
-##
+
 ## Simple Image Classification
 ### A Python program extracting image features with skimage library and implmenting classification to detect category of each flower
 

@@ -6,6 +6,8 @@ The program implements some common basic methods to apply image enhancement feat
 - OpenCV
 - PIL
 
+the order of appllying each filter on images is cosidered to have better performance 
+
 you can replace the content of the origin folder with your own pictures. 
 <br/>
 

@@ -1,4 +1,4 @@
-# ImageProccessing-example
+## Simple Image Enhacement-example
 ### A Python program implementing image filtering features
 
 The program implements some common basic methods to apply image enhancement features including rescaling, contrast, denoising and threshold on images in the original folder in order to make the text of pictures clearer using image proccessing libraries such as :
@@ -6,10 +6,16 @@ The program implements some common basic methods to apply image enhancement feat
 - OpenCV
 - PIL
 
-example outputs:
-
-![1](https://user-images.githubusercontent.com/56467180/127318573-d204f252-cc15-46cd-814f-e8235c7216ee.png) ![2](https://user-images.githubusercontent.com/56467180/127318891-79713162-cd8b-4f6e-8cd0-7f1a784137c0.png)
-
 you can replace the content of the origin folder with your own pictures. 
-the existing folder is a sample one.
+<br/>
 
+
+##
+## Simple Image Classification
+### A Python program extracting image features with skimage library and implmenting classification to detect category of each flower
+
+a set of a hundred flower images are collected and arranged into K categories then 
++ made a feature vector per image and added category of each image at the end of the feature vector
++ the dataset is divided into train and test
++ the classification is done by supervised learning using RandomForestClassifier form sklearn library
++ the result is determined with test data

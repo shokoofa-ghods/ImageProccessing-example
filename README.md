@@ -1,7 +1,7 @@
 Teamwork project with [v-nafise](https://github.com/v-nafiseh)
 
 ## Simple Image Enhacement-example
-### A Python program implementing image filtering features
+#### A Python program implementing image filtering features
 
 The program implements some common basic methods to apply image enhancement features including rescaling, contrast, denoising and threshold on images in the original folder in order to make the text of pictures clearer using image proccessing libraries such as :
 - Scikit-image
@@ -21,7 +21,7 @@ you can replace the content of the origin folder with your own pictures.
 
 
 ## Simple Image Classification
-### A Python program extracting image features with skimage library and implmenting classification to detect category of each flower
+#### A Python program extracting image features with skimage library and implmenting classification to detect category of each flower
 
 a set of a hundred flower images are collected and arranged into K categories then 
 + made a feature vector per image and added category of each image at the end of the feature vector

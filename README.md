@@ -1,3 +1,5 @@
+Teamwork project with [v-nafise](https://github.com/v-nafiseh)
+
 ## Simple Image Enhacement-example
 ### A Python program implementing image filtering features
 
